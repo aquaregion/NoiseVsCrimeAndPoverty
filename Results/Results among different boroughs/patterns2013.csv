@@ -1,0 +1,293 @@
+"('Noise - Residential', 'Residential Building/House')",0.5965859062118328
+"('Residential Building/House',)",0.5965859062118328
+"('Noise - Residential',)",0.5965859062118328
+"('Loud Music/Party',)",0.5496187852253407
+"('Loud Music/Party', 'Noise - Residential', 'Residential Building/House')",0.4018803078933167
+"('Loud Music/Party', 'Residential Building/House')",0.4018803078933167
+"('Loud Music/Party', 'Noise - Residential')",0.4018803078933167
+"('Noise - Residential', 'Poverty Level Higher than Median', 'Residential Building/House')",0.3064366258333367
+"('Poverty Level Higher than Median', 'Residential Building/House')",0.3064366258333367
+"('Noise - Residential', 'Poverty Level Higher than Median')",0.3064366258333367
+"('Poverty Level Lower than Median', 'Residential Building/House')",0.29014928037849613
+"('Noise - Residential', 'Poverty Level Lower than Median', 'Residential Building/House')",0.29014928037849613
+"('Noise - Residential', 'Poverty Level Lower than Median')",0.29014928037849613
+"('Loud Music/Party', 'Poverty Level Lower than Median')",0.2775340942750833
+"('Loud Music/Party', 'Poverty Level Higher than Median')",0.27208469095025745
+"('Loud Music/Party', 'Noise - Residential', 'Poverty Level Lower than Median')",0.2013195427857285
+"('Loud Music/Party', 'Noise - Residential', 'Poverty Level Lower than Median', 'Residential Building/House')",0.2013195427857285
+"('Loud Music/Party', 'Poverty Level Lower than Median', 'Residential Building/House')",0.2013195427857285
+"('Loud Music/Party', 'Poverty Level Higher than Median', 'Residential Building/House')",0.2005607651075882
+"('Loud Music/Party', 'Noise - Residential', 'Poverty Level Higher than Median', 'Residential Building/House')",0.2005607651075882
+"('Loud Music/Party', 'Noise - Residential', 'Poverty Level Higher than Median')",0.2005607651075882
+"('Misd Lower than IQR', 'Nonmajor Lower than IQR')",0.19571594934448913
+"('MANHATTAN', 'VC Lower than IQR')",0.19429171958498512
+"('BROOKLYN', 'Residential Building/House')",0.1835917370328141
+"('BROOKLYN', 'Noise - Residential')",0.1835917370328141
+"('BROOKLYN', 'Noise - Residential', 'Residential Building/House')",0.1835917370328141
+"('Noise - Residential', 'VC Within Higher IQR')",0.182544867295059
+"('Residential Building/House', 'VC Within Higher IQR')",0.182544867295059
+"('Noise - Residential', 'Residential Building/House', 'VC Within Higher IQR')",0.182544867295059
+"('Population Within Lower IQR', 'Poverty Level Lower than Median')",0.1811246951701975
+"('MANHATTAN', 'Poverty Level Higher than Median')",0.17808146918835135
+"('BROOKLYN', 'Poverty Level Lower than Median')",0.17477043932010275
+"('BROOKLYN', 'Loud Music/Party')",0.1707452657547809
+"('Noise - Residential', 'Noise Within Higher IQR', 'Residential Building/House')",0.17051803821480307
+"('Noise - Residential', 'Noise Within Higher IQR')",0.17051803821480307
+"('Noise Within Higher IQR', 'Residential Building/House')",0.17051803821480307
+"('MANHATTAN', 'Major Lower than IQR')",0.1702948683094677
+"('Misd Within Higher IQR', 'Poverty Level Higher than Median')",0.1688057163956843
+"('Nonmajor Higher than IQR', 'Residential Building/House')",0.1685419701439243
+"('Noise - Residential', 'Nonmajor Higher than IQR')",0.1685419701439243
+"('Noise - Residential', 'Nonmajor Higher than IQR', 'Residential Building/House')",0.1685419701439243
+"('Major Within Higher IQR', 'Noise - Residential', 'Residential Building/House')",0.16852979723999692
+"('Major Within Higher IQR', 'Noise - Residential')",0.16852979723999692
+"('Major Within Higher IQR', 'Residential Building/House')",0.16852979723999692
+"('Population Higher than IQR', 'Residential Building/House')",0.1651376146788991
+"('Noise - Residential', 'Population Higher than IQR', 'Residential Building/House')",0.1651376146788991
+"('Noise - Residential', 'Population Higher than IQR')",0.1651376146788991
+"('Misd Within Higher IQR', 'Residential Building/House')",0.1634374657637077
+"('Misd Within Higher IQR', 'Noise - Residential', 'Residential Building/House')",0.1634374657637077
+"('Misd Within Higher IQR', 'Noise - Residential')",0.1634374657637077
+"('Misd Within Lower IQR', 'Poverty Level Lower than Median')",0.16304387520338895
+"('Major Lower than IQR', 'VC Lower than IQR')",0.1611164987482197
+"('Major Within Lower IQR', 'Poverty Level Lower than Median')",0.15955025177622956
+"('Loud Music/Party', 'Noise Within Higher IQR')",0.1581990594402899
+"('Banging/Pounding',)",0.15699799958612126
+"('Loud Music/Party', 'VC Within Higher IQR')",0.1561174928687071
+"('Major Lower than IQR', 'Misd Lower than IQR')",0.15608503179156744
+"('Loud Music/Party', 'Major Within Higher IQR')",0.15517206399701358
+"('Loud Music/Party', 'MANHATTAN')",0.15492454828382343
+"('Noise - Residential', 'Population Within Higher IQR', 'Residential Building/House')",0.1544741508385102
+"('Population Within Higher IQR', 'Residential Building/House')",0.1544741508385102
+"('Noise - Residential', 'Population Within Higher IQR')",0.1544741508385102
+"('Major Higher than IQR', 'Noise - Residential')",0.15110631408526715
+"('Major Higher than IQR', 'Residential Building/House')",0.15110631408526715
+"('Major Higher than IQR', 'Noise - Residential', 'Residential Building/House')",0.15110631408526715
+"('Nonmajor Lower than IQR', 'VC Lower than IQR')",0.15018928865607084
+"('Banging/Pounding', 'Noise - Residential')",0.14963745034469605
+"('Banging/Pounding', 'Residential Building/House')",0.14963745034469605
+"('Banging/Pounding', 'Noise - Residential', 'Residential Building/House')",0.14963745034469605
+"('BRONX', 'Noise - Residential')",0.14939804990079084
+"('BRONX', 'Noise - Residential', 'Residential Building/House')",0.14939804990079084
+"('BRONX', 'Residential Building/House')",0.14939804990079084
+"('Noise - Residential', 'Nonmajor Within Higher IQR')",0.148379583605533
+"('Nonmajor Within Higher IQR', 'Residential Building/House')",0.148379583605533
+"('Noise - Residential', 'Nonmajor Within Higher IQR', 'Residential Building/House')",0.148379583605533
+"('Noise - Residential', 'Nonmajor Within Lower IQR')",0.14773847733202408
+"('Noise - Residential', 'Nonmajor Within Lower IQR', 'Residential Building/House')",0.14773847733202408
+"('Nonmajor Within Lower IQR', 'Residential Building/House')",0.14773847733202408
+"('Noise Lower than IQR', 'Population Lower than IQR')",0.14762486356203514
+"('Major Lower than IQR', 'Poverty Level Higher than Median')",0.14701621836566592
+"('Loud Music/Party', 'Misd Within Higher IQR')",0.14691071986496193
+"('Loud Music/Party', 'Population Within Lower IQR')",0.14665103124784437
+"('Noise Within Lower IQR', 'Residential Building/House')",0.14569342947222347
+"('Noise - Residential', 'Noise Within Lower IQR')",0.14569342947222347
+"('Noise - Residential', 'Noise Within Lower IQR', 'Residential Building/House')",0.14569342947222347
+"('Street/Sidewalk',)",0.1454905477401004
+"('Misd Higher than IQR', 'Nonmajor Higher than IQR')",0.1446993089848204
+"('Noise - Residential', 'Residential Building/House', 'VC Higher than IQR')",0.14435441004021116
+"('Noise - Residential', 'VC Higher than IQR')",0.14435441004021116
+"('Residential Building/House', 'VC Higher than IQR')",0.14435441004021116
+"('Loud Music/Party', 'Nonmajor Within Lower IQR')",0.14414747067344563
+"('Noise Lower than IQR', 'Residential Building/House')",0.14357128655421608
+"('Noise - Residential', 'Noise Lower than IQR')",0.14357128655421608
+"('Noise - Residential', 'Noise Lower than IQR', 'Residential Building/House')",0.14357128655421608
+"('Loud Music/Party', 'Misd Within Lower IQR')",0.1434657880535121
+"('Loud Music/Party', 'Nonmajor Within Higher IQR')",0.1434333269763724
+"('Population Higher than IQR', 'Poverty Level Higher than Median')",0.14342521170708747
+"('MANHATTAN', 'Misd Within Lower IQR')",0.1430316211467687
+"('Noise - Residential', 'Population Within Lower IQR', 'Residential Building/House')",0.14298698716570163
+"('Population Within Lower IQR', 'Residential Building/House')",0.14298698716570163
+"('Noise - Residential', 'Population Within Lower IQR')",0.14298698716570163
+"('Misd Higher than IQR', 'Noise - Residential')",0.1429058344728524
+"('Misd Higher than IQR', 'Noise - Residential', 'Residential Building/House')",0.1429058344728524
+"('Misd Higher than IQR', 'Residential Building/House')",0.1429058344728524
+"('Major Higher than IQR', 'Nonmajor Higher than IQR')",0.14258528133609794
+"('Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.1414816047133484
+"('Noise',)",0.1413436451355047
+"('nan',)",0.1413436451355047
+"('Noise', 'nan')",0.1413436451355047
+"('Noise - Residential', 'VC Within Lower IQR')",0.14003302914598964
+"('Noise - Residential', 'Residential Building/House', 'VC Within Lower IQR')",0.14003302914598964
+"('Residential Building/House', 'VC Within Lower IQR')",0.14003302914598964
+"('Nonmajor Higher than IQR', 'VC Higher than IQR')",0.13973276418244748
+"('Poverty Level Lower than Median', 'VC Within Lower IQR')",0.13961103514317363
+"('Loud Music/Party', 'Population Higher than IQR')",0.13952582481568196
+"('Nonmajor Within Higher IQR', 'Poverty Level Higher than Median')",0.1392985972757041
+"('Major Within Lower IQR', 'Misd Within Lower IQR')",0.13894558306180996
+"('Population Lower than IQR', 'Poverty Level Higher than Median')",0.13846272453935704
+"('Population Within Higher IQR', 'Poverty Level Higher than Median')",0.13755787201408812
+"('Nonmajor Lower than IQR', 'Poverty Level Lower than Median')",0.1369573420870038
+"('Major Lower than IQR', 'Misd Lower than IQR', 'Nonmajor Lower than IQR')",0.13593887579174596
+"('Major Lower than IQR', 'Nonmajor Lower than IQR')",0.13593887579174596
+"('MANHATTAN', 'Noise - Residential')",0.1359226452531761
+"('MANHATTAN', 'Noise - Residential', 'Residential Building/House')",0.1359226452531761
+"('MANHATTAN', 'Residential Building/House')",0.1359226452531761
+"('Noise Within Lower IQR', 'Poverty Level Lower than Median')",0.13520038628681796
+"('MANHATTAN', 'Population Within Lower IQR')",0.13501373509326473
+"('Loud Music/Party', 'Noise Within Lower IQR')",0.13489200605399088
+"('Loud Music/Party', 'VC Within Lower IQR')",0.13421438106869982
+"('Loud Music/Party', 'Major Within Lower IQR')",0.13420220816477244
+"('Noise Within Higher IQR', 'Poverty Level Lower than Median')",0.13401149933657674
+"('Population Lower than IQR', 'Residential Building/House')",0.13398715352872198
+"('Noise - Residential', 'Population Lower than IQR', 'Residential Building/House')",0.13398715352872198
+"('Noise - Residential', 'Population Lower than IQR')",0.13398715352872198
+"('Loud Music/Party', 'Nonmajor Higher than IQR')",0.13334604725521304
+"('Major Within Lower IQR', 'Residential Building/House')",0.13291593798311213
+"('Major Within Lower IQR', 'Noise - Residential')",0.13291593798311213
+"('Major Within Lower IQR', 'Noise - Residential', 'Residential Building/House')",0.13291593798311213
+"('Misd Lower than IQR', 'Poverty Level Higher than Median')",0.1326035001156426
+"('Major Higher than IQR', 'Poverty Level Higher than Median')",0.13241684892208935
+"('BRONX', 'Nonmajor Higher than IQR')",0.1321165839585472
+"('Loud Music/Party', 'Population Lower than IQR')",0.13198673964998844
+"('Misd Within Lower IQR', 'Residential Building/House')",0.13183660716821735
+"('Misd Within Lower IQR', 'Noise - Residential')",0.13183660716821735
+"('Misd Within Lower IQR', 'Noise - Residential', 'Residential Building/House')",0.13183660716821735
+"('Poverty Level Higher than Median', 'VC Within Higher IQR')",0.13182849189893245
+"('Noise Lower than IQR', 'Poverty Level Lower than Median')",0.13151199639682043
+"('Loud Music/Party', 'Population Within Higher IQR')",0.13145518951182597
+"('Poverty Level Higher than Median', 'VC Lower than IQR')",0.13127665358755766
+"('Major Within Higher IQR', 'Poverty Level Lower than Median')",0.13091146646973614
+"('Noise Within Higher IQR', 'Poverty Level Higher than Median')",0.13080191033438968
+"('Poverty Level Lower than Median', 'VC Within Higher IQR')",0.13046918429370782
+"('Major Higher than IQR', 'VC Higher than IQR')",0.12883801516743829
+"('Misd Lower than IQR', 'Nonmajor Lower than IQR', 'VC Lower than IQR')",0.12868788268566722
+"('BROOKLYN', 'Population Higher than IQR')",0.12853369256925368
+"('Misd Within Higher IQR', 'VC Within Higher IQR')",0.1275395720818506
+"('Major Lower than IQR', 'Residential Building/House')",0.12733263271508508
+"('Major Lower than IQR', 'Noise - Residential', 'Residential Building/House')",0.12733263271508508
+"('Major Lower than IQR', 'Noise - Residential')",0.12733263271508508
+"('BRONX', 'Misd Higher than IQR')",0.12709323227117983
+"('BROOKLYN', 'Poverty Level Higher than Median')",0.12693092688548138
+"('BROOKLYN', 'VC Within Lower IQR')",0.12684977419263216
+"('Noise Lower than IQR', 'QUEENS')",0.126707756980146
+"('Loud Music/Party', 'Noise - Residential', 'VC Within Higher IQR')",0.12661848901801184
+"('Loud Music/Party', 'Noise - Residential', 'Residential Building/House', 'VC Within Higher IQR')",0.12661848901801184
+"('Loud Music/Party', 'Residential Building/House', 'VC Within Higher IQR')",0.12661848901801184
+"('MANHATTAN', 'Poverty Level Lower than Median')",0.1264845870748106
+"('Loud Music/Party', 'Major Lower than IQR')",0.12631822405446969
+"('Major Within Higher IQR', 'Nonmajor Within Lower IQR')",0.12574203993524016
+"('Major Within Higher IQR', 'Poverty Level Higher than Median')",0.1254823513181226
+"('Loud Music/Party', 'VC Lower than IQR')",0.1253038153938543
+"('BROOKLYN', 'Loud Music/Party', 'Noise - Residential')",0.12427317619466909
+"('BROOKLYN', 'Loud Music/Party', 'Residential Building/House')",0.12427317619466909
+"('BROOKLYN', 'Loud Music/Party', 'Noise - Residential', 'Residential Building/House')",0.12427317619466909
+"('Major Lower than IQR', 'Misd Lower than IQR', 'VC Lower than IQR')",0.12388770090363524
+"('Nonmajor Higher than IQR', 'Poverty Level Higher than Median')",0.12271504449196385
+"('Noise - Residential', 'Noise Higher than IQR')",0.12269069868410909
+"('Noise - Residential', 'Noise Higher than IQR', 'Residential Building/House')",0.12269069868410909
+"('Noise Higher than IQR', 'Residential Building/House')",0.12269069868410909
+"('Loud Music/Party', 'Noise Higher than IQR')",0.12257708491412016
+"('Major Within Lower IQR', 'VC Within Lower IQR')",0.12238637608592447
+"('Nonmajor Lower than IQR', 'Poverty Level Higher than Median')",0.12207799585309739
+"('Poverty Level Lower than Median', 'VC Lower than IQR')",0.12185482594776201
+"('Loud Music/Party', 'Noise - Residential', 'Noise Within Higher IQR')",0.12127458419389002
+"('Loud Music/Party', 'Noise - Residential', 'Noise Within Higher IQR', 'Residential Building/House')",0.12127458419389002
+"('Loud Music/Party', 'Noise Within Higher IQR', 'Residential Building/House')",0.12127458419389002
+"('Loud Music/Party', 'Major Within Higher IQR', 'Noise - Residential')",0.1198949884154531
+"('Loud Music/Party', 'Major Within Higher IQR', 'Noise - Residential', 'Residential Building/House')",0.1198949884154531
+"('Loud Music/Party', 'Major Within Higher IQR', 'Residential Building/House')",0.1198949884154531
+"('Loud Music/Party', 'Noise Lower than IQR')",0.11970833722189987
+"('Misd Lower than IQR', 'Residential Building/House')",0.11944459097013986
+"('Misd Lower than IQR', 'Noise - Residential')",0.11944459097013986
+"('Misd Lower than IQR', 'Noise - Residential', 'Residential Building/House')",0.11944459097013986
+"('Misd Within Lower IQR', 'Nonmajor Within Lower IQR')",0.1187547930809214
+"('Loud Music/Party', 'Major Higher than IQR')",0.11856408425272572
+"('Misd Lower than IQR', 'Poverty Level Lower than Median')",0.11754561795746787
+"('Noise Lower than IQR', 'Poverty Level Higher than Median')",0.11749692634175833
+"('Misd Within Higher IQR', 'Nonmajor Within Higher IQR')",0.11735896676391465
+"('Population Lower than IQR', 'Poverty Level Lower than Median')",0.11672597575969064
+"('Loud Music/Party', 'Misd Higher than IQR')",0.11624311723723772
+"('Loud Music/Party', 'VC Higher than IQR')",0.11526928492304696
+"('Noise - Residential', 'Nonmajor Lower than IQR', 'Residential Building/House')",0.11522465094197988
+"('Noise - Residential', 'Nonmajor Lower than IQR')",0.11522465094197988
+"('Nonmajor Lower than IQR', 'Residential Building/House')",0.11522465094197988
+"('Noise Within Lower IQR', 'Poverty Level Higher than Median')",0.11515567115305804
+"('Major Within Higher IQR', 'VC Within Higher IQR')",0.11467281263060511
+"('Noise - Residential', 'QUEENS', 'Residential Building/House')",0.11448616143705188
+"('Noise - Residential', 'QUEENS')",0.11448616143705188
+"('QUEENS', 'Residential Building/House')",0.11448616143705188
+"('Poverty Level Higher than Median', 'VC Within Lower IQR')",0.11384505516354296
+"('Loud Music/Party', 'Nonmajor Lower than IQR')",0.11332973556395035
+"('Misd Within Higher IQR', 'Poverty Level Higher than Median', 'Residential Building/House')",0.1129239720997042
+"('Misd Within Higher IQR', 'Noise - Residential', 'Poverty Level Higher than Median', 'Residential Building/House')",0.1129239720997042
+"('Misd Within Higher IQR', 'Noise - Residential', 'Poverty Level Higher than Median')",0.1129239720997042
+"('Loud Music/Party', 'Misd Lower than IQR')",0.1128915110225645
+"('Noise Higher than IQR', 'Poverty Level Higher than Median')",0.11245328648117867
+"('MANHATTAN', 'Noise Higher than IQR')",0.11240459486546912
+"('BROOKLYN', 'Misd Within Higher IQR')",0.11225446238369804
+"('Major Within Lower IQR', 'Nonmajor Lower than IQR')",0.11214490624835159
+"('BRONX', 'Loud Music/Party')",0.11190550580444636
+"('Loud Music/Party', 'Noise - Residential', 'Nonmajor Higher than IQR', 'Residential Building/House')",0.11139018620485375
+"('Loud Music/Party', 'Nonmajor Higher than IQR', 'Residential Building/House')",0.11139018620485375
+"('Loud Music/Party', 'Noise - Residential', 'Nonmajor Higher than IQR')",0.11139018620485375
+"('Major Lower than IQR', 'Poverty Level Lower than Median')",0.11134555222378667
+"('Misd Higher than IQR', 'Noise - Residential', 'Nonmajor Higher than IQR', 'Residential Building/House')",0.11082211735490913
+"('Misd Higher than IQR', 'Nonmajor Higher than IQR', 'Residential Building/House')",0.11082211735490913
+"('Misd Higher than IQR', 'Noise - Residential', 'Nonmajor Higher than IQR')",0.11082211735490913
+"('BRONX', 'Poverty Level Higher than Median')",0.11062329325742852
+"('Poverty Level Higher than Median', 'VC Higher than IQR')",0.11055431346850667
+"('Loud Music/Party', 'Misd Within Higher IQR', 'Residential Building/House')",0.11041635389066298
+"('Loud Music/Party', 'Misd Within Higher IQR', 'Noise - Residential', 'Residential Building/House')",0.11041635389066298
+"('Loud Music/Party', 'Misd Within Higher IQR', 'Noise - Residential')",0.11041635389066298
+"('BROOKLYN', 'Major Within Higher IQR')",0.11040823862137805
+"('MANHATTAN', 'Major Lower than IQR', 'Poverty Level Higher than Median')",0.11013231946569067
+"('Major Within Higher IQR', 'Misd Within Higher IQR')",0.10995378354142236
+"('Misd Within Lower IQR', 'Population Within Lower IQR')",0.10949121319218175
+"('MANHATTAN', 'Poverty Level Higher than Median', 'VC Lower than IQR')",0.10945063684575713
+"('Major Higher than IQR', 'Nonmajor Higher than IQR', 'Residential Building/House')",0.10927615855613129
+"('Major Higher than IQR', 'Noise - Residential', 'Nonmajor Higher than IQR')",0.10927615855613129
+"('Major Higher than IQR', 'Noise - Residential', 'Nonmajor Higher than IQR', 'Residential Building/House')",0.10927615855613129
+"('MANHATTAN', 'Major Within Lower IQR')",0.10907733445865067
+"('Loud Music/Party', 'Noise - Residential', 'Population Higher than IQR', 'Residential Building/House')",0.10870403207154421
+"('Loud Music/Party', 'Noise - Residential', 'Population Higher than IQR')",0.10870403207154421
+"('Loud Music/Party', 'Population Higher than IQR', 'Residential Building/House')",0.10870403207154421
+"('Residential Building/House', 'VC Lower than IQR')",0.10856607249370052
+"('Noise - Residential', 'Residential Building/House', 'VC Lower than IQR')",0.10856607249370052
+"('Noise - Residential', 'VC Lower than IQR')",0.10856607249370052
+"('Nonmajor Within Higher IQR', 'Poverty Level Lower than Median')",0.10807509870196268
+"('Misd Within Lower IQR', 'VC Lower than IQR')",0.10798988837447099
+"('MANHATTAN', 'Misd Within Lower IQR', 'VC Lower than IQR')",0.10796148493197376
+"('Major Lower than IQR', 'Misd Lower than IQR', 'Nonmajor Lower than IQR', 'VC Lower than IQR')",0.10743399242845375
+"('Major Lower than IQR', 'Nonmajor Lower than IQR', 'VC Lower than IQR')",0.10743399242845375
+"('Nonmajor Within Higher IQR', 'VC Within Higher IQR')",0.10724734123490053
+"('Nonmajor Within Lower IQR', 'Poverty Level Higher than Median')",0.10712561219562668
+"('MANHATTAN', 'Nonmajor Within Higher IQR')",0.10683346250136945
+"('Nonmajor Within Higher IQR', 'Population Within Lower IQR')",0.10654942807639714
+"('MANHATTAN', 'Nonmajor Lower than IQR')",0.10567297899362546
+"('BROOKLYN', 'Misd Lower than IQR')",0.10533213768365869
+"('Nonmajor Higher than IQR', 'Residential Building/House', 'VC Higher than IQR')",0.10519012047117253
+"('Noise - Residential', 'Nonmajor Higher than IQR', 'Residential Building/House', 'VC Higher than IQR')",0.10519012047117253
+"('Noise - Residential', 'Nonmajor Higher than IQR', 'VC Higher than IQR')",0.10519012047117253
+"('Poverty Level Lower than Median', 'QUEENS')",0.1051089677783233
+"('BRONX', 'Noise - Residential', 'Nonmajor Higher than IQR')",0.10483304862263593
+"('BRONX', 'Nonmajor Higher than IQR', 'Residential Building/House')",0.10483304862263593
+"('BRONX', 'Noise - Residential', 'Nonmajor Higher than IQR', 'Residential Building/House')",0.10483304862263593
+"('Nonmajor Within Lower IQR', 'VC Within Lower IQR')",0.10467074323693747
+"('Noise Within Higher IQR', 'Nonmajor Higher than IQR')",0.10461799398658546
+"('Noise Within Higher IQR', 'Population Within Higher IQR')",0.10457741764016085
+"('Population Higher than IQR', 'Poverty Level Lower than Median')",0.104455688600887
+"('Noise Within Lower IQR', 'Nonmajor Lower than IQR')",0.10337635778599223
+"('Loud Music/Party', 'Noise - Residential', 'Nonmajor Within Lower IQR', 'Residential Building/House')",0.10308015045709254
+"('Loud Music/Party', 'Noise - Residential', 'Nonmajor Within Lower IQR')",0.10308015045709254
+"('Loud Music/Party', 'Nonmajor Within Lower IQR', 'Residential Building/House')",0.10308015045709254
+"('MANHATTAN', 'Major Lower than IQR', 'VC Lower than IQR')",0.1023051422403824
+"('Loud Music/Party', 'Nonmajor Within Higher IQR', 'Residential Building/House')",0.10210631814290178
+"('Loud Music/Party', 'Noise - Residential', 'Nonmajor Within Higher IQR', 'Residential Building/House')",0.10210631814290178
+"('Loud Music/Party', 'Noise - Residential', 'Nonmajor Within Higher IQR')",0.10210631814290178
+"('BRONX', 'Misd Higher than IQR', 'Nonmajor Higher than IQR')",0.1019034364107787
+"('BROOKLYN', 'Noise Within Higher IQR')",0.10182228371792947
+"('Misd Higher than IQR', 'VC Higher than IQR')",0.10161128671652148
+"('Loud Music/Party', 'Noise - Residential', 'Population Within Lower IQR', 'Residential Building/House')",0.1010919094822864
+"('Loud Music/Party', 'Noise - Residential', 'Population Within Lower IQR')",0.1010919094822864
+"('Loud Music/Party', 'Population Within Lower IQR', 'Residential Building/House')",0.1010919094822864
+"('Misd Lower than IQR', 'VC Within Lower IQR')",0.10097423807765502
+"('Loud Music/Party', 'QUEENS')",0.10069831892196762
+"('MANHATTAN', 'Misd Lower than IQR')",0.10065368494090055
+"('Loud Music/Party', 'Population Within Lower IQR', 'Poverty Level Lower than Median')",0.10060093569054855
+"('BROOKLYN', 'Noise Within Lower IQR')",0.1004589184780624
+"('Loud Music/Party', 'Noise - Residential', 'Population Within Higher IQR', 'Residential Building/House')",0.10045080320877747
+"('Loud Music/Party', 'Noise - Residential', 'Population Within Higher IQR')",0.10045080320877747
+"('Loud Music/Party', 'Population Within Higher IQR', 'Residential Building/House')",0.10045080320877747
+"('Nonmajor Higher than IQR', 'Poverty Level Lower than Median')",0.10028444018843655
+"('Misd Lower than IQR', 'Noise Within Lower IQR')",0.10017894168773256

@@ -1,0 +1,618 @@
+"('VC Lower than IQR',)",0.59895049539401
+"('Poverty Level Higher than Median',)",0.5816138797310345
+"('Noise - Residential', 'Residential Building/House')",0.41612661905548937
+"('Major Lower than IQR', 'VC Lower than IQR')",0.35760575509529485
+"('Major Lower than IQR', 'Poverty Level Higher than Median')",0.3435942379457024
+"('Poverty Level Higher than Median', 'VC Lower than IQR')",0.30453466018319575
+"('Nonmajor Lower than IQR', 'VC Lower than IQR')",0.3023686705695074
+"('Poverty Level Lower than Median', 'VC Lower than IQR')",0.29441583521081427
+"('Population Within Lower IQR', 'VC Lower than IQR')",0.2913886690037318
+"('Loud Music/Party', 'Poverty Level Higher than Median')",0.2842752633547613
+"('Misd Lower than IQR', 'Nonmajor Lower than IQR')",0.2836359049748171
+"('Population Within Lower IQR', 'Poverty Level Lower than Median')",0.2808349063579189
+"('Loud Music/Party', 'VC Lower than IQR')",0.2780078114806148
+"('Misd Within Lower IQR', 'VC Lower than IQR')",0.27705094859906576
+"('Loud Music/Party', 'Noise - Residential')",0.2759570803503858
+"('Loud Music/Party', 'Residential Building/House')",0.2748131942692612
+"('Loud Music/Party', 'Noise - Residential', 'Residential Building/House')",0.2748131942692612
+"('Misd Lower than IQR', 'VC Lower than IQR')",0.27297558259901356
+"('Major Lower than IQR', 'Noise Higher than IQR')",0.26874798841326036
+"('Misd Within Lower IQR', 'Nonmajor Within Lower IQR')",0.2585530493480284
+"('Nonmajor Lower than IQR', 'Poverty Level Higher than Median')",0.25356213954540313
+"('Major Lower than IQR', 'Noise - Residential')",0.2509394653746118
+"('Major Lower than IQR', 'Residential Building/House')",0.24993910872571962
+"('Major Lower than IQR', 'Noise - Residential', 'Residential Building/House')",0.24993910872571962
+"('Noise - Residential', 'Poverty Level Higher than Median', 'Residential Building/House')",0.2471837785645317
+"('Misd Lower than IQR', 'Nonmajor Lower than IQR', 'VC Lower than IQR')",0.2403639558451274
+"('Population Lower than IQR', 'Poverty Level Higher than Median')",0.23977026592089354
+"('Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.23694969510869093
+"('Loud Music/Party', 'Misd Within Lower IQR')",0.23515775189415355
+"('Misd Within Lower IQR', 'Population Within Lower IQR')",0.2330069850990353
+"('Noise - Residential', 'Residential Building/House', 'VC Lower than IQR')",0.2297166815995268
+"('Noise Higher than IQR', 'Poverty Level Lower than Median')",0.221879104724293
+"('Major Within Lower IQR', 'Population Within Lower IQR')",0.22158987117146112
+"('Major Lower than IQR', 'Misd Lower than IQR', 'Nonmajor Lower than IQR')",0.22121365008394298
+"('Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights')",0.2098617768073835
+"('Major Within Lower IQR', 'Misd Within Lower IQR')",0.2065953948799137
+"('Noise', 'nan')",0.20646273888951713
+"('Major Lower than IQR', 'Misd Lower than IQR', 'VC Lower than IQR')",0.2006041284283962
+"('Misd Within Lower IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.1975465165841735
+"('Noise - Residential', 'Population Within Lower IQR', 'Residential Building/House')",0.1962417035638793
+"('Poverty Level Higher than Median', 'VC Within Lower IQR')",0.19608077662470969
+"('Nonmajor Lower than IQR', 'Poverty Level Higher than Median', 'VC Lower than IQR')",0.19521742534294836
+"('NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR')",0.19265564244643743
+"('Misd Within Lower IQR', 'Noise Higher than IQR', 'Poverty Level Lower than Median')",0.19244252298645603
+"('Misd Within Lower IQR', 'Poverty Level Higher than Median')",0.19078541045068242
+"('Misd Lower than IQR', 'Nonmajor Lower than IQR', 'Poverty Level Higher than Median')",0.18997425168973286
+"('Major Lower than IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.18962630155098775
+"('Major Lower than IQR', 'Misd Lower than IQR', 'Poverty Level Higher than Median')",0.1894458024165137
+"('Misd Within Lower IQR', 'Noise - Residential', 'Residential Building/House')",0.188673788046173
+"('Misd Within Lower IQR', 'Population Within Lower IQR', 'Poverty Level Lower than Median')",0.18587931349437625
+"('Major Lower than IQR', 'Nonmajor Lower than IQR', 'VC Lower than IQR')",0.18334580154663838
+"('Noise - Residential', 'Noise Higher than IQR', 'Residential Building/House')",0.18270209378995989
+"('Population Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.18259335937160204
+"('Nonmajor Within Lower IQR', 'Population Within Lower IQR', 'Poverty Level Lower than Median')",0.18080359084543185
+"('Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.1806491879713637
+"('Major Lower than IQR', 'Misd Lower than IQR', 'Nonmajor Lower than IQR', 'VC Lower than IQR')",0.17794170095425327
+"('Noise - Residential', 'Nonmajor Within Lower IQR', 'Residential Building/House')",0.17328134378343582
+"('NGHBR: Inwood and Washington Heights', 'VC Lower than IQR')",0.17310301933732897
+"('Major Within Lower IQR', 'Poverty Level Higher than Median')",0.1726811297941005
+"('Major Within Lower IQR', 'VC Within Lower IQR')",0.17250498003636078
+"('NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Poverty Level Lower than Median')",0.17157638810358475
+"('Major Lower than IQR', 'Noise Higher than IQR', 'VC Lower than IQR')",0.17134369644829897
+"('Misd Within Lower IQR', 'Nonmajor Within Lower IQR', 'VC Lower than IQR')",0.170360737306344
+"('Loud Music/Party', 'Major Lower than IQR', 'VC Lower than IQR')",0.170138919092894
+"('Noise - Residential', 'Poverty Level Lower than Median', 'Residential Building/House')",0.16894284049095765
+"('Misd Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.16863186005445419
+"('Major Lower than IQR', 'Poverty Level Higher than Median', 'VC Lower than IQR')",0.1679794535443071
+"('Population Within Lower IQR', 'Poverty Level Higher than Median')",0.16752711836393844
+"('Loud Music/Party', 'Major Lower than IQR', 'Poverty Level Higher than Median')",0.16737923955497178
+"('Major Within Lower IQR', 'Noise Within Higher IQR')",0.16645064762219575
+"('Nonmajor Within Lower IQR', 'Poverty Level Higher than Median')",0.16546333910350647
+"('Nonmajor Within Lower IQR', 'VC Within Lower IQR')",0.16499360641620056
+"('Misd Within Lower IQR', 'VC Within Lower IQR')",0.16447385589645003
+"('Loud Music/Party', 'VC Within Lower IQR')",0.16400194852077699
+"('2013',)",0.1632321088388034
+"('Misd Within Higher IQR', 'Poverty Level Higher than Median')",0.16239920319418227
+"('Nonmajor Within Higher IQR', 'Poverty Level Higher than Median')",0.16237310693377638
+"('Loud Music/Party', 'Major Lower than IQR', 'Noise - Residential')",0.16206647587400724
+"('Noise Higher than IQR', 'Population Within Lower IQR', 'Poverty Level Lower than Median')",0.16175767012587097
+"('Loud Music/Party', 'Major Lower than IQR', 'Residential Building/House')",0.16137492497325134
+"('Loud Music/Party', 'Major Lower than IQR', 'Noise - Residential', 'Residential Building/House')",0.16137492497325134
+"('Major Lower than IQR', 'Noise - Residential', 'Poverty Level Higher than Median')",0.161190076462043
+"('Major Lower than IQR', 'Noise - Residential', 'Poverty Level Higher than Median', 'Residential Building/House')",0.16060508529127776
+"('Major Lower than IQR', 'Poverty Level Higher than Median', 'Residential Building/House')",0.16060508529127776
+"('Noise Higher than IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.16037891770109344
+"('Major Lower than IQR', 'Nonmajor Lower than IQR', 'Poverty Level Higher than Median')",0.16013970198070618
+"('Major Lower than IQR', 'Misd Lower than IQR', 'Nonmajor Lower than IQR', 'Poverty Level Higher than Median')",0.16013970198070618
+"('Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.1600461903809184
+"('Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR')",0.16002009412051252
+"('NGHBR: Central Harlem',)",0.15979175184196104
+"('NGHBR: Central Harlem', 'Poverty Level Higher than Median')",0.15979175184196104
+"('Misd Within Lower IQR', 'Nonmajor Within Lower IQR', 'Population Within Lower IQR')",0.15911324907140806
+"('Loud Music/Party', 'Noise - Residential', 'Poverty Level Higher than Median')",0.15791717046947173
+"('Major Lower than IQR', 'Population Within Lower IQR', 'VC Lower than IQR')",0.15761706347480406
+"('Noise Within Higher IQR', 'Poverty Level Higher than Median')",0.1575583468888908
+"('Loud Music/Party', 'Poverty Level Higher than Median', 'Residential Building/House')",0.15729738428483198
+"('Loud Music/Party', 'Noise - Residential', 'Poverty Level Higher than Median', 'Residential Building/House')",0.15729738428483198
+"('Loud Music/Party', 'Noise - Residential', 'VC Lower than IQR')",0.1572821614662619
+"('Misd Within Lower IQR', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.15671891717916822
+"('Misd Within Lower IQR', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR')",0.15671891717916822
+"('Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'VC Lower than IQR')",0.15654494210979567
+"('Loud Music/Party', 'Residential Building/House', 'VC Lower than IQR')",0.15651014709592115
+"('Loud Music/Party', 'Noise - Residential', 'Residential Building/House', 'VC Lower than IQR')",0.15651014709592115
+"('Population Lower than IQR', 'VC Lower than IQR')",0.1563818404822589
+"('Misd Within Lower IQR', 'Population Lower than IQR')",0.15540758009377256
+"('Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Poverty Level Lower than Median')",0.15328290955906018
+"('Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Poverty Level Lower than Median')",0.15328290955906018
+"('Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR')",0.15328290955906018
+"('Major Within Lower IQR', 'VC Lower than IQR')",0.15221731225915328
+"('Noise Within Higher IQR', 'Population Within Lower IQR')",0.15195852434346158
+"('Major Lower than IQR', 'Noise - Residential', 'VC Lower than IQR')",0.14915752572656338
+"('Major Lower than IQR', 'Residential Building/House', 'VC Lower than IQR')",0.14851381796988491
+"('Major Lower than IQR', 'Noise - Residential', 'Residential Building/House', 'VC Lower than IQR')",0.14851381796988491
+"('Major Lower than IQR', 'Noise Higher than IQR', 'Poverty Level Higher than Median')",0.14820718691011578
+"('Noise Higher than IQR', 'Poverty Level Higher than Median')",0.14820718691011578
+"('Loud Music/Party', 'Major Lower than IQR', 'Noise Higher than IQR')",0.14725684809366818
+"('Misd Lower than IQR', 'Nonmajor Lower than IQR', 'Poverty Level Higher than Median', 'VC Lower than IQR')",0.14670230256004316
+"('VC Lower than IQR', 'nan')",0.14660009220678677
+"('Major Within Lower IQR', 'Population Within Lower IQR', 'Poverty Level Lower than Median')",0.1459868300872485
+"('Major Lower than IQR', 'Misd Within Lower IQR', 'VC Lower than IQR')",0.14592376412460095
+"('NGHBR: Lower East Side',)",0.1457541384319627
+"('Major Lower than IQR', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR')",0.1455257961534112
+"('Loud Music/Party', 'Misd Within Lower IQR', 'Nonmajor Within Lower IQR')",0.14525178541914943
+"('Loud Music/Party', 'Misd Within Lower IQR', 'VC Lower than IQR')",0.14505171408937098
+"('Noise', 'VC Lower than IQR')",0.14480814899224942
+"('Noise', 'VC Lower than IQR', 'nan')",0.14479945023878077
+"('Major Lower than IQR', 'NGHBR: Central Harlem', 'Poverty Level Higher than Median')",0.14437103663045087
+"('Major Lower than IQR', 'NGHBR: Central Harlem')",0.14437103663045087
+"('Noise - Street/Sidewalk',)",0.1441970615610783
+"('Loud Music/Party', 'Population Within Lower IQR', 'VC Lower than IQR')",0.14414921841700085
+"('Misd Within Lower IQR', 'Nonmajor Within Lower IQR', 'Population Within Lower IQR', 'Poverty Level Lower than Median')",0.14407310432415035
+"('Noise - Street/Sidewalk', 'Street/Sidewalk')",0.14397306865926113
+"('Misd Within Lower IQR', 'Noise Higher than IQR', 'VC Lower than IQR')",0.14372950356213954
+"('Misd Within Lower IQR', 'Noise Higher than IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.14372950356213954
+"('Misd Within Lower IQR', 'Population Lower than IQR', 'Poverty Level Higher than Median')",0.14365773884602337
+"('2015', 'VC Lower than IQR')",0.1433532824746214
+"('Loud Music/Party', 'Poverty Level Higher than Median', 'VC Lower than IQR')",0.14113944971685558
+"('Loud Music/Party', 'Population Within Lower IQR', 'Poverty Level Lower than Median')",0.14083716803382076
+"('Loud Music/Party', 'Misd Within Lower IQR', 'Poverty Level Lower than Median')",0.14035656190467907
+"('Major Within Lower IQR', 'Nonmajor Within Lower IQR', 'Population Within Lower IQR')",0.14030436938386728
+"('2015', 'Poverty Level Higher than Median')",0.14017606277020503
+"('Major Lower than IQR', 'Nonmajor Within Lower IQR', 'VC Lower than IQR')",0.1401216955610261
+"('Major Lower than IQR', 'Misd Within Lower IQR', 'Poverty Level Lower than Median')",0.1395954209761741
+"('Major Lower than IQR', 'Misd Lower than IQR', 'Poverty Level Higher than Median', 'VC Lower than IQR')",0.1395301803251594
+"('NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR')",0.13930183804660792
+"('NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.13930183804660792
+"('NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.13930183804660792
+"('NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.13887124974991083
+"('NGHBR: Inwood and Washington Heights', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.13887124974991083
+"('NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'VC Lower than IQR')",0.13887124974991083
+"('34', 'Major Within Lower IQR', 'NGHBR: Inwood and Washington Heights')",0.1385146008576971
+"('34', 'Major Within Lower IQR')",0.1385146008576971
+"('34', 'NGHBR: Inwood and Washington Heights')",0.1385146008576971
+"('34',)",0.1385146008576971
+"('Major Within Lower IQR', 'NGHBR: Inwood and Washington Heights')",0.1385146008576971
+"('Noise - Commercial',)",0.13714019780965386
+"('Major Within Lower IQR', 'Noise - Residential')",0.13692490366130533
+"('Loud Music/Party', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.13686836176375924
+"('Major Lower than IQR', 'Noise - Residential', 'Noise Higher than IQR')",0.13672048295479258
+"('2012',)",0.13643342409032785
+"('Major Within Lower IQR', 'Noise - Residential', 'Residential Building/House')",0.13640732782992196
+"('Major Within Lower IQR', 'Residential Building/House')",0.13640732782992196
+"('Loud Music/Party', 'Noise - Residential', 'Population Within Lower IQR')",0.13620508181177637
+"('Major Lower than IQR', 'Noise - Residential', 'Noise Higher than IQR', 'Residential Building/House')",0.1362029071234092
+"('Major Lower than IQR', 'Noise Higher than IQR', 'Residential Building/House')",0.1362029071234092
+"('NGHBR: Inwood and Washington Heights', 'Noise - Residential', 'Residential Building/House')",0.13612026896545726
+"('Noise - Residential', 'VC Within Lower IQR')",0.1359658660913891
+"('Loud Music/Party', 'Noise - Residential', 'Population Within Lower IQR', 'Residential Building/House')",0.13568533129202584
+"('Loud Music/Party', 'Population Within Lower IQR', 'Residential Building/House')",0.13568533129202584
+"('Misd Lower than IQR', 'Population Within Lower IQR')",0.13565923503161997
+"('Misd Lower than IQR', 'Population Within Lower IQR', 'VC Lower than IQR')",0.13565923503161997
+"('Noise - Residential', 'Residential Building/House', 'VC Within Lower IQR')",0.13558312093876948
+"('Residential Building/House', 'VC Within Lower IQR')",0.13558312093876948
+"('Major Lower than IQR', 'Population Within Higher IQR')",0.13382162336137232
+"('Population Within Higher IQR',)",0.13382162336137232
+"('Nonmajor Lower than IQR', 'Population Within Lower IQR', 'VC Lower than IQR')",0.13379987647770075
+"('Nonmajor Lower than IQR', 'Population Within Lower IQR')",0.13379987647770075
+"('Loud Music/Party', 'Population Lower than IQR')",0.13347584791099434
+"('Misd Within Lower IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.13343017945528407
+"('Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.13336493880426936
+"('Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'VC Lower than IQR')",0.13336493880426936
+"('Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.13336493880426936
+"('Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.13316051809775659
+"('Major Within Lower IQR', 'Misd Within Lower IQR', 'Population Within Lower IQR')",0.13280604389391001
+"('Loud Music/Party', 'Misd Within Lower IQR', 'Noise - Residential')",0.13239502779251733
+"('Misd Within Lower IQR', 'Noise Higher than IQR', 'Population Within Lower IQR', 'Poverty Level Lower than Median')",0.132321088388034
+"('Misd Within Lower IQR', 'Noise Higher than IQR', 'Population Within Lower IQR')",0.132321088388034
+"('Loud Music/Party', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.13227759462069086
+"('Loud Music/Party', 'Noise Higher than IQR', 'Poverty Level Lower than Median')",0.1321231917466227
+"('Loud Music/Party', 'Misd Within Lower IQR', 'Residential Building/House')",0.1320188067049992
+"('Loud Music/Party', 'Misd Within Lower IQR', 'Noise - Residential', 'Residential Building/House')",0.1320188067049992
+"('Noise Lower than IQR',)",0.13096408284692804
+"('Loud Music/Party', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights')",0.1304247601318731
+"('Loud Music/Party', 'Misd Within Lower IQR', 'Population Within Lower IQR')",0.13012900251393975
+"('Noise Within Higher IQR', 'VC Lower than IQR')",0.12870240694508478
+"('Noise - Residential', 'Population Within Lower IQR', 'VC Lower than IQR')",0.12867848537304605
+"('Major Lower than IQR', 'Misd Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.12855235344775093
+"('Loud Music/Party', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR')",0.12850668499204065
+"('Major Lower than IQR', 'Misd Within Lower IQR', 'Nonmajor Within Lower IQR')",0.12850233561530633
+"('Misd Lower than IQR', 'Nonmajor Lower than IQR', 'Population Within Lower IQR', 'VC Lower than IQR')",0.12839577588531564
+"('Misd Lower than IQR', 'Nonmajor Lower than IQR', 'Population Within Lower IQR')",0.12839577588531564
+"('Population Within Lower IQR', 'Residential Building/House', 'VC Lower than IQR')",0.12810871702085092
+"('Noise - Residential', 'Population Within Lower IQR', 'Residential Building/House', 'VC Lower than IQR')",0.12810871702085092
+"('Major Lower than IQR', 'VC Within Lower IQR')",0.1275128524082499
+"('Noise Within Lower IQR', 'Poverty Level Higher than Median')",0.1273801964178533
+"('Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Population Within Lower IQR', 'Poverty Level Lower than Median')",0.12717577571134056
+"('Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Population Within Lower IQR')",0.12717577571134056
+"('2015', 'Major Lower than IQR')",0.12712575787889596
+"('Major Within Lower IQR', 'Misd Within Lower IQR', 'VC Within Lower IQR')",0.1265472907732322
+"('Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.12651467044772485
+"('Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.12651467044772485
+"('Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR')",0.12651467044772485
+"('Major Lower than IQR', 'Nonmajor Within Higher IQR')",0.12649509825242042
+"('Major Lower than IQR', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'VC Lower than IQR')",0.1258252942353361
+"('2015', 'Nonmajor Within Lower IQR')",0.12554693412433998
+"('2011',)",0.12455310154054924
+"('Loud Music/Party', 'Nonmajor Within Lower IQR', 'Population Within Lower IQR')",0.12420950077853843
+"('Noise Within Lower IQR', 'Population Lower than IQR')",0.12414426012752372
+"('Nonmajor Lower than IQR', 'nan')",0.12377456310510704
+"('Loud Music/Party', 'Noise - Residential', 'Noise Higher than IQR')",0.12364625649144477
+"('2014', 'Poverty Level Higher than Median')",0.12343966109656486
+"('2014', 'VC Lower than IQR')",0.12316999973903739
+"('Loud Music/Party', 'Noise Higher than IQR', 'Residential Building/House')",0.123109108464757
+"('Loud Music/Party', 'Noise - Residential', 'Noise Higher than IQR', 'Residential Building/House')",0.123109108464757
+"('Noise', 'Nonmajor Lower than IQR', 'nan')",0.12286554336763542
+"('Loud Music/Party', 'Nonmajor Within Lower IQR', 'VC Lower than IQR')",0.12226315468993293
+"('Loud Music/Party', 'Noise Higher than IQR', 'VC Lower than IQR')",0.12202611365791283
+"('Misd Within Lower IQR', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.12201741490444419
+"('Misd Within Lower IQR', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'VC Lower than IQR')",0.12201741490444419
+"('2015', 'Loud Music/Party')",0.12192390330465644
+"('Noise Within Lower IQR', 'VC Lower than IQR')",0.1218195182630329
+"('Loud Music/Party', 'NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR')",0.12181516888629859
+"('Major Within Lower IQR', 'Noise Within Higher IQR', 'Poverty Level Higher than Median')",0.12180212075609566
+"('Poverty Level Lower than Median', 'VC Within Lower IQR')",0.12117363581798728
+"('Loud Music/Party', 'Noise - Residential', 'Nonmajor Within Lower IQR')",0.12117146112962013
+"('NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR', 'VC Lower than IQR')",0.12108229890656669
+"('Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR', 'VC Lower than IQR')",0.12108229890656669
+"('Loud Music/Party', 'Noise - Residential', 'Nonmajor Within Lower IQR', 'Residential Building/House')",0.12076044502822746
+"('Loud Music/Party', 'Nonmajor Within Lower IQR', 'Residential Building/House')",0.12076044502822746
+"('Loud Music/Party', 'Major Within Lower IQR', 'Population Within Lower IQR')",0.12062996372619804
+"('33', 'Noise Higher than IQR')",0.1205408015031446
+"('33', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.1205408015031446
+"('Major Lower than IQR', 'Noise Higher than IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.1205408015031446
+"('Major Lower than IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.1205408015031446
+"('33', 'NGHBR: Inwood and Washington Heights', 'VC Lower than IQR')",0.1205408015031446
+"('33', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Poverty Level Lower than Median')",0.1205408015031446
+"('Major Lower than IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Poverty Level Lower than Median')",0.1205408015031446
+"('33', 'Noise Higher than IQR', 'VC Lower than IQR')",0.1205408015031446
+"('33', 'Major Lower than IQR', 'NGHBR: Inwood and Washington Heights', 'Poverty Level Lower than Median')",0.1205408015031446
+"('33', 'Major Lower than IQR', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'VC Lower than IQR')",0.1205408015031446
+"('33', 'Misd Within Lower IQR')",0.1205408015031446
+"('33', 'Major Lower than IQR', 'Misd Within Lower IQR', 'Noise Higher than IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.1205408015031446
+"('33', 'Major Lower than IQR', 'Noise Higher than IQR', 'Poverty Level Lower than Median')",0.1205408015031446
+"('33', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'VC Lower than IQR')",0.1205408015031446
+"('33',)",0.1205408015031446
+"('33', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR')",0.1205408015031446
+"('33', 'Major Lower than IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.1205408015031446
+"('33', 'Major Lower than IQR', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Poverty Level Lower than Median')",0.1205408015031446
+"('33', 'Major Lower than IQR', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'VC Lower than IQR')",0.1205408015031446
+"('Major Lower than IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'VC Lower than IQR')",0.1205408015031446
+"('33', 'Major Lower than IQR', 'Misd Within Lower IQR', 'VC Lower than IQR')",0.1205408015031446
+"('Major Lower than IQR', 'Misd Within Lower IQR', 'Noise Higher than IQR', 'VC Lower than IQR')",0.1205408015031446
+"('Major Lower than IQR', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Poverty Level Lower than Median')",0.1205408015031446
+"('33', 'Major Lower than IQR', 'Misd Within Lower IQR', 'Noise Higher than IQR')",0.1205408015031446
+"('Major Lower than IQR', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights')",0.1205408015031446
+"('Major Lower than IQR', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'VC Lower than IQR')",0.1205408015031446
+"('33', 'Major Lower than IQR')",0.1205408015031446
+"('33', 'Major Lower than IQR', 'Poverty Level Lower than Median')",0.1205408015031446
+"('33', 'Major Lower than IQR', 'NGHBR: Inwood and Washington Heights')",0.1205408015031446
+"('33', 'Major Lower than IQR', 'Noise Higher than IQR')",0.1205408015031446
+"('33', 'Misd Within Lower IQR', 'Noise Higher than IQR')",0.1205408015031446
+"('33', 'Major Lower than IQR', 'NGHBR: Inwood and Washington Heights', 'VC Lower than IQR')",0.1205408015031446
+"('33', 'Misd Within Lower IQR', 'Noise Higher than IQR', 'Poverty Level Lower than Median')",0.1205408015031446
+"('33', 'Major Lower than IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR')",0.1205408015031446
+"('33', 'Misd Within Lower IQR', 'Noise Higher than IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.1205408015031446
+"('33', 'NGHBR: Inwood and Washington Heights', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.1205408015031446
+"('Major Lower than IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR')",0.1205408015031446
+"('33', 'NGHBR: Inwood and Washington Heights', 'Poverty Level Lower than Median')",0.1205408015031446
+"('33', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.1205408015031446
+"('33', 'Major Lower than IQR', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights')",0.1205408015031446
+"('33', 'Major Lower than IQR', 'Misd Within Lower IQR')",0.1205408015031446
+"('33', 'Major Lower than IQR', 'NGHBR: Inwood and Washington Heights', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.1205408015031446
+"('Major Lower than IQR', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.1205408015031446
+"('33', 'Misd Within Lower IQR', 'Poverty Level Lower than Median')",0.1205408015031446
+"('Major Lower than IQR', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'VC Lower than IQR')",0.1205408015031446
+"('Major Lower than IQR', 'NGHBR: Inwood and Washington Heights', 'Poverty Level Lower than Median')",0.1205408015031446
+"('33', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'VC Lower than IQR')",0.1205408015031446
+"('Major Lower than IQR', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR')",0.1205408015031446
+"('33', 'Major Lower than IQR', 'Noise Higher than IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.1205408015031446
+"('33', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.1205408015031446
+"('33', 'Major Lower than IQR', 'Misd Within Lower IQR', 'Noise Higher than IQR', 'VC Lower than IQR')",0.1205408015031446
+"('Major Lower than IQR', 'NGHBR: Inwood and Washington Heights', 'VC Lower than IQR')",0.1205408015031446
+"('33', 'Major Lower than IQR', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Poverty Level Lower than Median')",0.1205408015031446
+"('33', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights')",0.1205408015031446
+"('33', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'VC Lower than IQR')",0.1205408015031446
+"('33', 'Major Lower than IQR', 'Misd Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.1205408015031446
+"('33', 'Major Lower than IQR', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR')",0.1205408015031446
+"('33', 'Major Lower than IQR', 'Misd Within Lower IQR', 'Poverty Level Lower than Median')",0.1205408015031446
+"('33', 'Major Lower than IQR', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.1205408015031446
+"('Major Lower than IQR', 'NGHBR: Inwood and Washington Heights')",0.1205408015031446
+"('33', 'Misd Within Lower IQR', 'Noise Higher than IQR', 'VC Lower than IQR')",0.1205408015031446
+"('33', 'Noise Higher than IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.1205408015031446
+"('Major Lower than IQR', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.1205408015031446
+"('33', 'Major Lower than IQR', 'VC Lower than IQR')",0.1205408015031446
+"('Major Lower than IQR', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Poverty Level Lower than Median')",0.1205408015031446
+"('33', 'Major Lower than IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.1205408015031446
+"('33', 'Major Lower than IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Poverty Level Lower than Median')",0.1205408015031446
+"('33', 'VC Lower than IQR')",0.1205408015031446
+"('33', 'Noise Higher than IQR', 'Poverty Level Lower than Median')",0.1205408015031446
+"('Major Lower than IQR', 'Misd Within Lower IQR', 'Noise Higher than IQR')",0.1205408015031446
+"('33', 'Misd Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.1205408015031446
+"('33', 'Major Lower than IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'VC Lower than IQR')",0.1205408015031446
+"('33', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.1205408015031446
+"('33', 'NGHBR: Inwood and Washington Heights')",0.1205408015031446
+"('Major Lower than IQR', 'Misd Within Lower IQR', 'Noise Higher than IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.1205408015031446
+"('33', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR')",0.1205408015031446
+"('33', 'Major Lower than IQR', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.1205408015031446
+"('33', 'Misd Within Lower IQR', 'VC Lower than IQR')",0.1205408015031446
+"('33', 'Major Lower than IQR', 'Misd Within Lower IQR', 'Noise Higher than IQR', 'Poverty Level Lower than Median')",0.1205408015031446
+"('Major Lower than IQR', 'NGHBR: Inwood and Washington Heights', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.1205408015031446
+"('33', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Poverty Level Lower than Median')",0.1205408015031446
+"('Major Lower than IQR', 'Noise Higher than IQR', 'Poverty Level Lower than Median')",0.1205408015031446
+"('33', 'Poverty Level Lower than Median')",0.1205408015031446
+"('Major Lower than IQR', 'Misd Within Lower IQR', 'Noise Higher than IQR', 'Poverty Level Lower than Median')",0.1205408015031446
+"('33', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Poverty Level Lower than Median')",0.1205408015031446
+"('33', 'Major Lower than IQR', 'Noise Higher than IQR', 'VC Lower than IQR')",0.1205408015031446
+"('Major Lower than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.1203537783035691
+"('Major Lower than IQR', 'Misd Within Lower IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.1203537783035691
+"('2010',)",0.12029071234092155
+"('2014', 'Major Lower than IQR')",0.12025374263867988
+"('Major Within Lower IQR', 'Noise Within Higher IQR', 'Population Within Lower IQR')",0.12025156795031272
+"('Major Lower than IQR', 'Street/Sidewalk')",0.12014500822032202
+"('Loud Music/Party', 'Noise Within Higher IQR')",0.11990796718830192
+"('Noise - Residential', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.11966657677954749
+"('Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Population Within Lower IQR')",0.11956219173792396
+"('Misd Within Lower IQR', 'Noise - Residential', 'VC Lower than IQR')",0.11947737889160483
+"('Misd Within Lower IQR', 'Residential Building/House', 'VC Lower than IQR')",0.11918379596203864
+"('Misd Within Lower IQR', 'Noise - Residential', 'Residential Building/House', 'VC Lower than IQR')",0.11918379596203864
+"('Poverty Level Lower than Median', 'Residential Building/House', 'VC Lower than IQR')",0.11916639845510138
+"('Noise - Residential', 'Poverty Level Lower than Median', 'Residential Building/House', 'VC Lower than IQR')",0.11916639845510138
+"('Population Lower than IQR', 'Poverty Level Higher than Median', 'VC Lower than IQR')",0.11892935742308128
+"('Street/Sidewalk', 'VC Lower than IQR')",0.11890978522777686
+"('Major Within Lower IQR', 'Population Lower than IQR')",0.11855313633556311
+"('Nonmajor Lower than IQR', 'Population Lower than IQR')",0.11804208456928122
+"('Loud Music/Party', 'Noise - Residential', 'Poverty Level Lower than Median')",0.11803990988091406
+"('Banging/Pounding',)",0.1178615854348072
+"('Loud Music/Party', 'Poverty Level Lower than Median', 'Residential Building/House')",0.11751580998442923
+"('Loud Music/Party', 'Noise - Residential', 'Poverty Level Lower than Median', 'Residential Building/House')",0.11751580998442923
+"('Major Lower than IQR', 'Misd Within Lower IQR', 'Nonmajor Within Lower IQR', 'VC Lower than IQR')",0.11745926808688315
+"('Misd Within Lower IQR', 'Population Within Lower IQR', 'VC Lower than IQR')",0.11705695073895911
+"('Noise - Residential', 'Nonmajor Within Higher IQR')",0.11695039100896841
+"('Noise - Residential', 'Population Within Lower IQR', 'Poverty Level Lower than Median')",0.1169003731765238
+"('Major Lower than IQR', 'Nonmajor Lower than IQR', 'Poverty Level Higher than Median', 'VC Lower than IQR')",0.11686775285101644
+"('Major Lower than IQR', 'Misd Lower than IQR', 'Nonmajor Lower than IQR', 'Poverty Level Higher than Median', 'VC Lower than IQR')",0.11686775285101644
+"('Nonmajor Within Higher IQR', 'Residential Building/House')",0.11641759235901496
+"('Noise - Residential', 'Nonmajor Within Higher IQR', 'Residential Building/House')",0.11641759235901496
+"('Population Within Lower IQR', 'Poverty Level Lower than Median', 'Residential Building/House')",0.1164154176706478
+"('Noise - Residential', 'Population Within Lower IQR', 'Poverty Level Lower than Median', 'Residential Building/House')",0.1164154176706478
+"('Misd Within Lower IQR', 'Noise - Residential', 'Poverty Level Lower than Median')",0.11617402726189337
+"('Misd Within Lower IQR', 'Population Within Lower IQR', 'VC Within Lower IQR')",0.1159500343600762
+"('Misd Within Lower IQR', 'Noise - Residential', 'Poverty Level Lower than Median', 'Residential Building/House')",0.11575213771866491
+"('Misd Within Lower IQR', 'Poverty Level Lower than Median', 'Residential Building/House')",0.11575213771866491
+"('Poverty Level Higher than Median', 'Street/Sidewalk')",0.11553684357031638
+"('Major Lower than IQR', 'Population Lower than IQR')",0.11546290416583303
+"('Loud Music/Party', 'Misd Within Lower IQR', 'Noise Higher than IQR')",0.11505623744117469
+"('Loud Music/Party', 'Misd Within Lower IQR', 'Noise Higher than IQR', 'Poverty Level Lower than Median')",0.11505623744117469
+"('Misd Lower than IQR', 'Population Higher than IQR')",0.11486486486486487
+"('Population Higher than IQR',)",0.11486486486486487
+"('Poverty Level Higher than Median', 'nan')",0.11471046199079672
+"('Loud Music/Party', 'Nonmajor Lower than IQR', 'VC Lower than IQR')",0.1145799806887673
+"('Loud Music/Party', 'Nonmajor Within Higher IQR')",0.11457345662366583
+"('Major Within Lower IQR', 'Misd Within Lower IQR', 'Poverty Level Lower than Median')",0.11455823380509574
+"('Noise - Residential', 'Noise Higher than IQR', 'Poverty Level Lower than Median')",0.11423855461512365
+"('Noise - Residential', 'Nonmajor Lower than IQR')",0.11418636209431189
+"('Noise Higher than IQR', 'Poverty Level Lower than Median', 'Residential Building/House')",0.11375142442088049
+"('Noise - Residential', 'Noise Higher than IQR', 'Poverty Level Lower than Median', 'Residential Building/House')",0.11375142442088049
+"('Noise - Residential', 'Nonmajor Lower than IQR', 'Residential Building/House')",0.11372750284884175
+"('Misd Within Lower IQR', 'Noise - Residential', 'Nonmajor Within Lower IQR')",0.11372750284884175
+"('Nonmajor Lower than IQR', 'Residential Building/House')",0.11372750284884175
+"('Misd Within Lower IQR', 'Noise - Residential', 'Nonmajor Within Lower IQR', 'Residential Building/House')",0.1132751676684731
+"('Misd Within Lower IQR', 'Nonmajor Within Lower IQR', 'Residential Building/House')",0.1132751676684731
+"('Nonmajor Within Lower IQR', 'Population Within Lower IQR', 'VC Lower than IQR')",0.11322297514766134
+"('Noise', 'Poverty Level Higher than Median')",0.11318818013378683
+"('Noise', 'Poverty Level Higher than Median', 'nan')",0.11317730669195104
+"('Major Lower than IQR', 'Nonmajor Within Higher IQR', 'Poverty Level Higher than Median')",0.11265755617220052
+"('Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise - Residential')",0.11200080028531911
+"('2015', 'Population Within Lower IQR')",0.11190293930879705
+"('Loud Music/Party', 'Misd Lower than IQR', 'Nonmajor Lower than IQR')",0.11178115676023626
+"('Loud Music/Party', 'Misd Within Lower IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.11175071112309606
+"('Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Residential Building/House')",0.11173983768126028
+"('Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise - Residential', 'Residential Building/House')",0.11173983768126028
+"('Loud Music/Party', 'Noise - Commercial')",0.11166154890004262
+"('Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'VC Lower than IQR')",0.111652850146574
+"('NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.111652850146574
+"('Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.111652850146574
+"('Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.111652850146574
+"('NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.111652850146574
+"('NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'VC Lower than IQR')",0.111652850146574
+"('Misd Lower than IQR', 'Noise - Residential')",0.11161370575596517
+"('Loud Music/Party', 'Population Lower than IQR', 'Poverty Level Higher than Median')",0.11157673605372351
+"('Major Within Lower IQR', 'Population Within Lower IQR', 'VC Within Lower IQR')",0.1114853991423029
+"('NGHBR: Inwood and Washington Heights', 'Population Within Lower IQR', 'Poverty Level Lower than Median')",0.11145495350516271
+"('NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Population Within Lower IQR')",0.11145495350516271
+"('NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Population Within Lower IQR', 'Poverty Level Lower than Median')",0.11145495350516271
+"('Noise Higher than IQR', 'VC Within Lower IQR')",0.11131359876129751
+"('Major Within Lower IQR', 'Nonmajor Within Lower IQR', 'Population Within Lower IQR', 'Poverty Level Lower than Median')",0.11126793030558721
+"('Major Within Lower IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.11126793030558721
+"('Misd Lower than IQR', 'Noise - Residential', 'Residential Building/House')",0.11120486434293966
+"('Misd Lower than IQR', 'Residential Building/House')",0.11120486434293966
+"('Major Lower than IQR', 'Population Within Lower IQR', 'Poverty Level Lower than Median')",0.11118094277090093
+"('Noise - Residential', 'Poverty Level Higher than Median', 'VC Lower than IQR')",0.11110700336641759
+"('Noise - Residential', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR')",0.11085473951582739
+"('Nonmajor Lower than IQR', 'Poverty Level Lower than Median')",0.11081559512521856
+"('Major Within Lower IQR', 'Misd Within Lower IQR', 'Nonmajor Within Lower IQR')",0.11069816195339208
+"('Noise - Residential', 'Poverty Level Higher than Median', 'Residential Building/House', 'VC Lower than IQR')",0.1105502831444254
+"('Poverty Level Higher than Median', 'Residential Building/House', 'VC Lower than IQR')",0.1105502831444254
+"('Major Lower than IQR', 'Poverty Level Higher than Median', 'VC Within Lower IQR')",0.11052418688401952
+"('Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Residential Building/House')",0.11041545246566167
+"('Noise - Residential', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Residential Building/House')",0.11041545246566167
+"('Population Lower than IQR', 'VC Within Lower IQR')",0.11036543463321706
+"('NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR', 'Population Within Lower IQR')",0.11025670021485921
+"('Major Within Lower IQR', 'Population Within Lower IQR', 'VC Lower than IQR')",0.11010447202915823
+"('Loud Music/Party', 'Nonmajor Lower than IQR', 'Poverty Level Higher than Median')",0.11001313511773762
+"('Major Within Lower IQR', 'Nonmajor Within Lower IQR', 'VC Within Lower IQR')",0.10978479283918614
+"('Misd Within Lower IQR', 'Noise - Residential', 'Population Within Lower IQR')",0.10947163771431553
+"('Loud Music/Party', 'Major Within Lower IQR', 'Misd Within Lower IQR')",0.10938899955636357
+"('Major Lower than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.10931071077514593
+"('Major Lower than IQR', 'Misd Within Lower IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.10931071077514593
+"('Misd Within Lower IQR', 'Nonmajor Within Higher IQR')",0.10924112074739689
+"('Misd Within Lower IQR', 'Noise - Residential', 'Population Within Lower IQR', 'Residential Building/House')",0.10918892822658513
+"('Misd Within Lower IQR', 'Population Within Lower IQR', 'Residential Building/House')",0.10918892822658513
+"('Population Within Lower IQR', 'Poverty Level Higher than Median', 'VC Lower than IQR')",0.10879530963212972
+"('Banging/Pounding', 'Noise - Residential')",0.10854522046990667
+"('Misd Within Lower IQR', 'Poverty Level Higher than Median', 'VC Lower than IQR')",0.10841908854461156
+"('Nonmajor Within Lower IQR', 'Population Within Lower IQR', 'VC Within Lower IQR')",0.10837559477726842
+"('Loud Music/Party', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.10836907071216695
+"('Loud Music/Party', 'Misd Within Higher IQR')",0.10823641472177037
+"('Banging/Pounding', 'Noise - Residential', 'Residential Building/House')",0.10818857157769292
+"('Banging/Pounding', 'Residential Building/House')",0.10818857157769292
+"('Noise - Residential', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.1081385537452483
+"('2014', 'Loud Music/Party')",0.10795587992240711
+"('Noise - Residential', 'Noise Higher than IQR', 'VC Lower than IQR')",0.107871067076088
+"('Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'Residential Building/House')",0.10772318826712132
+"('Noise - Residential', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'Residential Building/House')",0.10772318826712132
+"('Major Lower than IQR', 'Noise Higher than IQR', 'Population Within Higher IQR')",0.10771231482528554
+"('Noise Higher than IQR', 'Population Within Higher IQR')",0.10771231482528554
+"('Noise - Residential', 'Population Lower than IQR')",0.10749702067693699
+"('Noise Higher than IQR', 'Residential Building/House', 'VC Lower than IQR')",0.10739263563531345
+"('Noise - Residential', 'Noise Higher than IQR', 'Residential Building/House', 'VC Lower than IQR')",0.10739263563531345
+"('Nonmajor Lower than IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.10715124522655903
+"('Loud Music/Party', 'Misd Lower than IQR', 'VC Lower than IQR')",0.10714472116145757
+"('Noise - Residential', 'Population Lower than IQR', 'Residential Building/House')",0.10704251080820118
+"('Population Lower than IQR', 'Residential Building/House')",0.10704251080820118
+"('33', 'Misd Within Lower IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.10670325942292469
+"('33', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR', 'VC Lower than IQR')",0.10670325942292469
+"('33', 'Major Lower than IQR', 'Misd Within Lower IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.10670325942292469
+"('33', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR')",0.10670325942292469
+"('33', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.10670325942292469
+"('Major Lower than IQR', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.10670325942292469
+"('33', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.10670325942292469
+"('Major Lower than IQR', 'NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.10670325942292469
+"('33', 'Major Lower than IQR', 'Misd Within Lower IQR', 'Nonmajor Within Lower IQR')",0.10670325942292469
+"('33', 'Major Lower than IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.10670325942292469
+"('33', 'Major Lower than IQR', 'Nonmajor Within Lower IQR')",0.10670325942292469
+"('33', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR')",0.10670325942292469
+"('Major Lower than IQR', 'NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR')",0.10670325942292469
+"('33', 'Major Lower than IQR', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'VC Lower than IQR')",0.10670325942292469
+"('33', 'Major Lower than IQR', 'Misd Within Lower IQR', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.10670325942292469
+"('Major Lower than IQR', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR', 'VC Lower than IQR')",0.10670325942292469
+"('33', 'Misd Within Lower IQR', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.10670325942292469
+"('33', 'Major Lower than IQR', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.10670325942292469
+"('Major Lower than IQR', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.10670325942292469
+"('33', 'Major Lower than IQR', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR')",0.10670325942292469
+"('Major Lower than IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR')",0.10670325942292469
+"('33', 'Misd Within Lower IQR', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR')",0.10670325942292469
+"('33', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.10670325942292469
+"('33', 'Misd Within Lower IQR', 'Nonmajor Within Lower IQR', 'VC Lower than IQR')",0.10670325942292469
+"('33', 'Misd Within Lower IQR', 'Nonmajor Within Lower IQR')",0.10670325942292469
+"('33', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.10670325942292469
+"('33', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.10670325942292469
+"('33', 'Major Lower than IQR', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.10670325942292469
+"('33', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'VC Lower than IQR')",0.10670325942292469
+"('33', 'Major Lower than IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'VC Lower than IQR')",0.10670325942292469
+"('33', 'Major Lower than IQR', 'Misd Within Lower IQR', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR')",0.10670325942292469
+"('33', 'NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.10670325942292469
+"('33', 'Major Lower than IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.10670325942292469
+"('33', 'Major Lower than IQR', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.10670325942292469
+"('Major Lower than IQR', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.10670325942292469
+"('33', 'Major Lower than IQR', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR')",0.10670325942292469
+"('33', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.10670325942292469
+"('33', 'Major Lower than IQR', 'Nonmajor Within Lower IQR', 'VC Lower than IQR')",0.10670325942292469
+"('33', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR')",0.10670325942292469
+"('33', 'Major Lower than IQR', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.10670325942292469
+"('33', 'Major Lower than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.10670325942292469
+"('Major Lower than IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'VC Lower than IQR')",0.10670325942292469
+"('33', 'Major Lower than IQR', 'NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.10670325942292469
+"('Major Lower than IQR', 'NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR', 'VC Lower than IQR')",0.10670325942292469
+"('Major Lower than IQR', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'VC Lower than IQR')",0.10670325942292469
+"('Major Lower than IQR', 'Misd Within Lower IQR', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'VC Lower than IQR')",0.10670325942292469
+"('Major Lower than IQR', 'NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.10670325942292469
+"('33', 'Major Lower than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.10670325942292469
+"('33', 'Major Lower than IQR', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.10670325942292469
+"('33', 'Nonmajor Within Lower IQR')",0.10670325942292469
+"('33', 'Major Lower than IQR', 'Misd Within Lower IQR', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.10670325942292469
+"('33', 'NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR', 'VC Lower than IQR')",0.10670325942292469
+"('33', 'Major Lower than IQR', 'Misd Within Lower IQR', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'VC Lower than IQR')",0.10670325942292469
+"('33', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.10670325942292469
+"('Major Lower than IQR', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR')",0.10670325942292469
+"('33', 'NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR')",0.10670325942292469
+"('33', 'NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.10670325942292469
+"('33', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR')",0.10670325942292469
+"('33', 'Major Lower than IQR', 'Misd Within Lower IQR', 'Nonmajor Within Lower IQR', 'VC Lower than IQR')",0.10670325942292469
+"('33', 'Major Lower than IQR', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.10670325942292469
+"('Major Lower than IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.10670325942292469
+"('33', 'Major Lower than IQR', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'VC Lower than IQR')",0.10670325942292469
+"('Major Lower than IQR', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.10670325942292469
+"('33', 'Misd Within Lower IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.10670325942292469
+"('33', 'Major Lower than IQR', 'Misd Within Lower IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.10670325942292469
+"('Major Lower than IQR', 'Misd Within Lower IQR', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.10670325942292469
+"('33', 'Major Lower than IQR', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR', 'VC Lower than IQR')",0.10670325942292469
+"('33', 'Major Lower than IQR', 'NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR')",0.10670325942292469
+"('Major Lower than IQR', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR')",0.10670325942292469
+"('33', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.10670325942292469
+"('33', 'Misd Within Lower IQR', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.10670325942292469
+"('33', 'Major Lower than IQR', 'NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR', 'VC Lower than IQR')",0.10670325942292469
+"('Major Lower than IQR', 'Misd Within Lower IQR', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.10670325942292469
+"('33', 'Nonmajor Within Lower IQR', 'VC Lower than IQR')",0.10670325942292469
+"('33', 'Major Lower than IQR', 'NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.10670325942292469
+"('Major Lower than IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.10670325942292469
+"('Major Lower than IQR', 'Misd Within Lower IQR', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR')",0.10670325942292469
+"('33', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'VC Lower than IQR')",0.10670325942292469
+"('33', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'VC Lower than IQR')",0.10670325942292469
+"('Major Lower than IQR', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.10670325942292469
+"('33', 'Misd Within Lower IQR', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'VC Lower than IQR')",0.10670325942292469
+"('33', 'Major Lower than IQR', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR')",0.10670325942292469
+"('33', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.10670325942292469
+"('33', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median')",0.10670325942292469
+"('Major Lower than IQR', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.10670325942292469
+"('33', 'Major Lower than IQR', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR')",0.10670325942292469
+"('Misd Within Lower IQR', 'Noise Within Higher IQR')",0.10646186901417026
+"('Major Within Lower IQR', 'Misd Within Lower IQR', 'Population Within Lower IQR', 'Poverty Level Lower than Median')",0.10640532711662419
+"('Nonmajor Lower than IQR', 'VC Lower than IQR', 'nan')",0.10636183334928105
+"('Noise', 'Nonmajor Lower than IQR', 'VC Lower than IQR')",0.10570942683913395
+"('Noise', 'Nonmajor Lower than IQR', 'VC Lower than IQR', 'nan')",0.10570072808566533
+"('Loud Music/Party', 'NGHBR: Inwood and Washington Heights', 'VC Lower than IQR')",0.10527013978896824
+"('Noise Within Higher IQR', 'VC Within Lower IQR')",0.105211423203055
+"('Loud Music/Party', 'Major Lower than IQR', 'Nonmajor Within Lower IQR')",0.10483302742716968
+"('Loud Music/Party', 'Major Lower than IQR', 'Misd Lower than IQR')",0.1046655764228986
+"('Loud Music/Party', 'Major Lower than IQR', 'Misd Within Lower IQR')",0.10449595073026036
+"('Loud Music/Party', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR', 'Poverty Level Lower than Median')",0.10444375820944858
+"('Loud Music/Party', 'NGHBR: Inwood and Washington Heights', 'Noise Higher than IQR')",0.10444375820944858
+"('Loud Music/Party', 'NGHBR: Inwood and Washington Heights', 'Poverty Level Lower than Median')",0.10444375820944858
+"('Major Within Lower IQR', 'Poverty Level Lower than Median', 'VC Within Lower IQR')",0.10418497029375691
+"('2013', 'VC Lower than IQR')",0.10413060308457799
+"('Nonmajor Within Lower IQR', 'Population Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.10390008611765934
+"('Noise Within Higher IQR', 'Nonmajor Within Lower IQR')",0.1038109238946059
+"('Misd Within Lower IQR', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Population Within Lower IQR')",0.10324550491914508
+"('Misd Within Lower IQR', 'Noise Higher than IQR', 'Nonmajor Within Lower IQR', 'Population Within Lower IQR', 'Poverty Level Lower than Median')",0.10324550491914508
+"('Loud Music/Party', 'Major Lower than IQR', 'Population Within Lower IQR')",0.1030976261101784
+"('Major Lower than IQR', 'nan')",0.10296279543141468
+"('Major Lower than IQR', 'Misd Within Higher IQR', 'Poverty Level Higher than Median')",0.10288233196182987
+"('Major Lower than IQR', 'Misd Within Higher IQR')",0.10288233196182987
+"('Misd Within Higher IQR', 'Noise - Residential')",0.10266486312511418
+"('Loud Music/Party', 'Misd Within Lower IQR', 'Population Within Lower IQR', 'Poverty Level Lower than Median')",0.10239520176758671
+"('Loud Music/Party', 'Misd Lower than IQR', 'Poverty Level Higher than Median')",0.10215163667046512
+"('Noise Within Lower IQR', 'Population Lower than IQR', 'Poverty Level Higher than Median')",0.10207987195434894
+"('Misd Within Higher IQR', 'Residential Building/House')",0.10202333005680286
+"('Misd Within Higher IQR', 'Noise - Residential', 'Residential Building/House')",0.10202333005680286
+"('2015', 'Poverty Level Lower than Median')",0.1020211553684357
+"('Misd Within Lower IQR', 'Street/Sidewalk')",0.1019863603545612
+"('Noise Within Higher IQR', 'Population Within Lower IQR', 'VC Lower than IQR')",0.10197331222435825
+"('Misd Within Higher IQR', 'Nonmajor Within Higher IQR')",0.10162101270887881
+"('Loud Music/Party', 'Major Lower than IQR', 'Noise - Residential', 'VC Lower than IQR')",0.10154924799276263
+"('Major Lower than IQR', 'Noise')",0.10140136918379596
+"('Major Lower than IQR', 'Noise', 'nan')",0.10139701980706164
+"('Major Within Lower IQR', 'Noise Higher than IQR')",0.10133830322114841
+"('Major Within Lower IQR', 'Noise Higher than IQR', 'Poverty Level Lower than Median')",0.10133830322114841
+"('Major Within Lower IQR', 'Noise Higher than IQR', 'Population Within Lower IQR')",0.10133830322114841
+"('Major Within Lower IQR', 'Noise Higher than IQR', 'Population Within Lower IQR', 'Poverty Level Lower than Median')",0.10133830322114841
+"('Loud Music/Party', 'NGHBR: Inwood and Washington Heights', 'Noise - Residential')",0.1012578397515636
+"('NGHBR: Lower East Side', 'Noise Higher than IQR')",0.10110561156586262
+"('Loud Music/Party', 'Major Lower than IQR', 'Residential Building/House', 'VC Lower than IQR')",0.10107951530545672
+"('Loud Music/Party', 'Major Lower than IQR', 'Noise - Residential', 'Residential Building/House', 'VC Lower than IQR')",0.10107951530545672
+"('Loud Music/Party', 'NGHBR: Inwood and Washington Heights', 'Residential Building/House')",0.1008229020781322
+"('Loud Music/Party', 'NGHBR: Inwood and Washington Heights', 'Noise - Residential', 'Residential Building/House')",0.1008229020781322
+"('Loud Music/Party', 'Major Lower than IQR', 'Poverty Level Lower than Median')",0.10065980045059543
+"('Loud Music/Party', 'Poverty Level Higher than Median', 'VC Within Lower IQR')",0.10062500543672091
+"('Misd Lower than IQR', 'Noise Higher than IQR', 'Population Higher than IQR', 'Poverty Level Higher than Median')",0.10061630668325229
+"('Major Lower than IQR', 'Population Higher than IQR', 'Poverty Level Higher than Median')",0.10061630668325229
+"('Major Lower than IQR', 'Noise Higher than IQR', 'Population Higher than IQR', 'Poverty Level Higher than Median')",0.10061630668325229
+"('Major Lower than IQR', 'Noise Higher than IQR', 'Population Higher than IQR')",0.10061630668325229
+"('Major Lower than IQR', 'Misd Lower than IQR', 'Population Higher than IQR', 'Poverty Level Higher than Median')",0.10061630668325229
+"('Misd Lower than IQR', 'Noise Higher than IQR', 'Population Higher than IQR')",0.10061630668325229
+"('Major Lower than IQR', 'Misd Lower than IQR', 'Noise Higher than IQR', 'Population Higher than IQR')",0.10061630668325229
+"('Major Lower than IQR', 'Misd Lower than IQR', 'Noise Higher than IQR', 'Poverty Level Higher than Median')",0.10061630668325229
+"('Misd Lower than IQR', 'Noise Higher than IQR')",0.10061630668325229
+"('Major Lower than IQR', 'Misd Lower than IQR', 'Noise Higher than IQR', 'Population Higher than IQR', 'Poverty Level Higher than Median')",0.10061630668325229
+"('Major Lower than IQR', 'Misd Lower than IQR', 'Noise Higher than IQR')",0.10061630668325229
+"('Noise Higher than IQR', 'Population Higher than IQR', 'Poverty Level Higher than Median')",0.10061630668325229
+"('Misd Lower than IQR', 'Population Higher than IQR', 'Poverty Level Higher than Median')",0.10061630668325229
+"('Major Lower than IQR', 'Misd Lower than IQR', 'Population Higher than IQR')",0.10061630668325229
+"('Population Higher than IQR', 'Poverty Level Higher than Median')",0.10061630668325229
+"('Major Lower than IQR', 'Population Higher than IQR')",0.10061630668325229
+"('Misd Lower than IQR', 'Noise Higher than IQR', 'Poverty Level Higher than Median')",0.10061630668325229
+"('Noise Higher than IQR', 'Population Higher than IQR')",0.10061630668325229
+"('NGHBR: Inwood and Washington Heights', 'Noise - Residential', 'Nonmajor Within Lower IQR')",0.10052714446019885
+"('Misd Lower than IQR', 'nan')",0.1004640784975513
+"('Misd Within Lower IQR', 'Population Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.10042493410694248
+"('Misd Within Higher IQR', 'Nonmajor Within Lower IQR')",0.10035969345592777
+"('Noise - Residential', 'Nonmajor Within Lower IQR', 'VC Lower than IQR')",0.10027270592124149
+"('NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR', 'Residential Building/House')",0.10026618185614002
+"('NGHBR: Inwood and Washington Heights', 'Noise - Residential', 'Nonmajor Within Lower IQR', 'Residential Building/House')",0.10026618185614002
+"('Noise Higher than IQR', 'Population Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.1002574831026714
+"('Noise Higher than IQR', 'Population Within Lower IQR', 'VC Lower than IQR')",0.1002574831026714
+"('Major Lower than IQR', 'Misd Within Lower IQR', 'Population Within Lower IQR')",0.10020094120512531
+"('Loud Music/Party', 'Misd Within Lower IQR', 'NGHBR: Inwood and Washington Heights', 'Nonmajor Within Lower IQR')",0.10016397150288364
+"('Major Lower than IQR', 'Population Within Lower IQR', 'Poverty Level Lower than Median', 'VC Lower than IQR')",0.10013787524247775
+"('Loud Talking',)",0.10011395367043903
